@@ -1,9 +1,9 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
-nav: true
+title: 关于
+description: 关于这个网站
+nav: false
 nav_order: 7
 
 profiles:

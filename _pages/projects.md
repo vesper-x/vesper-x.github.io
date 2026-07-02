@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: 作品
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 我的作品集，包含纪录片、策划案和文案
 nav: true
 nav_order: 3
 display_categories: [work, fun]
